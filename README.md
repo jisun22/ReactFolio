@@ -16,7 +16,7 @@
 
 ## :pencil2:Language:pencil2:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jisun22&langs_count=8)](https://github.com/jisun22/ReactFolio/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jisun22&layout=compact"><br><br>
 
 
 
