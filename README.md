@@ -3,9 +3,6 @@
 
 # 👩🏻‍💻이지선 Lee JIsun 
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/89379902/211256470-28163134-4070-49ad-b735-daa2bceffcc7.jpg" width="550" height="600"/>
-</div>
 
 ## :information_desk_person:Introduce
 - 👋 Hi, I’m Lee Jisun 안녕하세요 이지선입니다. 
