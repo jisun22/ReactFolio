@@ -1,5 +1,7 @@
 ![jisun](https://user-images.githubusercontent.com/89379902/211788832-c909d53b-fea4-4f49-af44-a7257a8955f9.png)
-
+![skill](https://user-images.githubusercontent.com/89379902/211851189-9cb231bf-b0c5-4888-a863-1fb6663486a1.png)
+![project](https://user-images.githubusercontent.com/89379902/211851207-ab1862f7-319c-4493-812c-4847211a5fac.png)
+![contact](https://user-images.githubusercontent.com/89379902/211851221-718d87f3-d97f-4779-b379-930094b4aa29.png)
 
 # 👩🏻‍💻이지선 Lee JIsun 
 
