@@ -4,7 +4,7 @@ export const greeting = {
 	username: 'Jisun',
 	title: 'Hello I\'m Jisun Lee',
 	subTitle: " 새로운 도전을 좋아합니다 🤍 ",
-	role: "🖥FrontEnd Developer🖥",
+	role: " Frontend / Backend 🖥Developer🖥",
 	resumeLink: "https://github.com/jisun22/jisun22",
 	view: true
 };
@@ -21,12 +21,18 @@ export const skills = {
 	describeSkills: [
 		"✔ HTML5",
 		"✔ CSS3",
+		"✔ MySQL",
+		"✔ Servlet / JSP, jdbc",
+		"✔ Spring Framework, Mybatis, Ajax",
 		"✔ JQuery / Javascript",
 		"✔ React : typeScript/node.js/next.js",
 	],
 	lists: [
 		{fontAwesome: "fab fa-html5", text: "HTML5", proficiency: 80},
 		{fontAwesome: "fab fa-css3-alt", text: "CSS3", proficiency: 80},
+		{fontAwesome: "fab fa-css3-alt", text: "MySQL", proficiency: 60},
+		{fontAwesome: "fab fa-css3-alt", text: "JSP", proficiency: 60},
+		{fontAwesome: "fab fa-css3-alt", text: "Spring", proficiency: 80},
 		{fontAwesome: "fab fa-js", text: "JS", proficiency: 70},
 		{fontAwesome: "fab fa-react", text: "React", proficiency: 60},
 
@@ -45,17 +51,27 @@ export const projects = {
 			url: "https://github.com/jisun22/ToolLibrary"
 		},
 		{
-			title: "Project2 : JSGroup",
+			title: "Project2 : 게시판",
+			desc: "개인 프로젝트 게시판",
+			url: "https://github.com/jisun22/ToolLibrary"
+		},
+		{
+			title: "Project3 : Vuedongsan",
+			desc: "개인 프로젝트 Vuedongsan",
+			url: "https://github.com/jisun22/ToolLibrary"
+		},
+		{
+			title: "Project4 : JSGroup",
 			desc: "개인 프로젝트 JSgroup",
 			url: "https://github.com/jisun22/jsgroup"
 		},
 		{
-			title: "Project3 : LeepetStore",
+			title: "Project5 : LeepetStore",
 			desc: "개인 프로젝트 LeePetStore",
 			url: "https://github.com/jisun22/LeePetStore"
 		},
 		{
-			title: "Project4 : ReactClass",
+			title: "Project6 : ReactClass",
 			desc: "ReactClass",
 			url: "https://github.com/jisun22/ReactClass"
 		}
