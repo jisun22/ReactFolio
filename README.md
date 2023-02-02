@@ -1,10 +1,42 @@
-# ReactFolio [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/Ikalli/ReactFolio/blob/master/LICENSE)
-## Nice and Clean Responsive Dark Theme Portfolio Website with React!
+![jisun](https://user-images.githubusercontent.com/89379902/211788832-c909d53b-fea4-4f49-af44-a7257a8955f9.png)
+![skill](https://user-images.githubusercontent.com/89379902/211851189-9cb231bf-b0c5-4888-a863-1fb6663486a1.png)
+![project](https://user-images.githubusercontent.com/89379902/211851207-ab1862f7-319c-4493-812c-4847211a5fac.png)
+![contact](https://user-images.githubusercontent.com/89379902/211851221-718d87f3-d97f-4779-b379-930094b4aa29.png)
 
-![캡처s](https://user-images.githubusercontent.com/16658067/94679897-d2e40c00-035b-11eb-8c90-c4fb4f79157d.PNG)
+# 👩🏻‍💻이지선 Lee JIsun 
 
-## Demo Page
-https://ikalli.github.io/ReactFolio
+
+## :information_desk_person:Introduce
+- 👋 Hi, I’m Lee Jisun 안녕하세요 이지선입니다. 
+- 👀 I’m interested in Frontend ♥ 꾸준히 배우고 성장하고 있습니다. 
+- 🌱 I’m currently learning React, typescript, next.js, javascript
+- 💞️ 새로운 기술을 배우는 것을 좋아합니다.
+- 📫 How to reach me  -> hayanangela@gmail.com  /  dlwltjs8542@naver.com
+
+## :pencil2:Language:pencil2:
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jisun22&layout=compact"><br><br>
+
+
+
+## :wrench:Tech Stack:wrench:
+
+<div>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
+  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> 
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
+  <br>
+</div>
+
 
 ## Contents
 * Greeting and Summary
@@ -12,73 +44,6 @@ https://ikalli.github.io/ReactFolio
 * Projects
 * Contact
 
-## Getting Started
-You have to install Node.js and Git for use.
-
-## How To Use
-1. Fork or clone this repository.  
-```
-git clone https://github.com/jisun22/ReactFolio.git  
-cd ReactFolio
-```
-2. Fill `portfolio.tsx` with your story!
-3. If you want to test your website, open terminal and follow below.
-```
-# project root directory
-npm i
-npm start
-```
-Yarn also possible!
-Then, new brower window maybe pop up with localhost:3000
-
-4. You NEED token, github personal access token, public use
-  * goto https://github.com/settings/tokens
-  * Click 'Personal access token'
-  * Click 'Generate new token' and confirm password
-  * Write token name in note
-  * __IMPORTANT! DO NOT CHECK IN SELECT SCOPE!!__
-  ![token](https://user-images.githubusercontent.com/16658067/94020991-79755d80-fdee-11ea-9ba0-80fb76652d94.PNG)
-  * Click Generate token
-  * Copy token - If you lose token, click regenerate token
-  
-5. Create .env.local file in project root directory and write following 1-line code
-```
---public
---src
---.env.local  // Create!
---.gitignore
---tsconfig.json
---package.json
-...
-
-# .env.local
-
-REACT_APP_GITHUB_TOKEN = /your token/
-```
-
-6. Open .gitignore and check .env.local is contained  
-
-**If you get into trouble with Github Token, go to Reference part and click Github Docs**  
-And you can see 6 or less repositories that you pinned.
-
-7. Change favicon, apple-touch-icon and other images.
-
-8. Change `public/index.html` meta tags!
-
-9. **Modify Codes if you want!**
-
-## Deploy
-* Install gh-pages module 
-* `npm i -D gh-pages` or `yarn add gh-pages`
-* Modify `package.json` hompage to your github page  
-
-Example: `homepage: https://[username].github.io/ReactFolio` 
-
-* open terminal and following instruction  
-
-`npm run deploy`
-
-* Then gh-pages branch will be automatically generated and you can see pages!!
 
 ## Used Technologies
 * CSS3
@@ -89,35 +54,8 @@ Example: `homepage: https://[username].github.io/ReactFolio`
 * react-easy-emoji
 * react-reveal  
 
-⚠ If you want to use react-reveal effect, you have to variable declaration with `require()`.  
-⚠ Example
-```typescript
-...import 
-
-export default function Ex() {
-  const Fade: any = require('react-reveal/Fade');
-  return (
-    <Fade>
-      ...
-    </Fade>
-  );
-}
-```
-
-## Contributes
-
-You can just change `src/portfolio.tsx` to get your portfolio website. Also you can modify component codes if you want!
-
-But if you want to contribute to ReactFolio and make much better, look at [Issues](https://github.com/Ikalli/ReactFolio/issues).
-
-If you created something cool and want to contribute, open an [Pull request](https://github.com/Ikalli/ReactFolio/pulls).
 
 ## Reference
-[Github Token](https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token)  
-
-[Github GraphQL API](https://docs.github.com/en/graphql)  
-
-[DeveloperFolio](https://github.com/saadpasta/developerFolio)  
 
 [React Reveal](https://www.react-reveal.com/)  
 
@@ -125,4 +63,23 @@ If you created something cool and want to contribute, open an [Pull request](htt
 
 [gh-pages](https://www.npmjs.com/package/gh-pages)
 
-## Contributors
+
+##  :clipboard:Portfolio :clipboard:
+
+▶ 팀 프로젝트 Tool Library <br/>
+ :point_right: https://github.com/jisun22/ToolLibrary
+
+▶ 개인 프로젝트 vuePortfolio <br/>
+ :point_right: https://github.com/jisun22/VuePortfolio.git
+ 
+▶ 개인 프로젝트 JSgroup <br/>
+ :point_right: https://github.com/jisun22/jsgroup
+
+
+▶ 개인 프로젝트 LeePetStore <br/>
+ :point_right: https://github.com/jisun22/LeePetStore
+
+
+▶ ReactClass <br/>
+:point_right: https://github.com/jisun22/ReactClass
+
