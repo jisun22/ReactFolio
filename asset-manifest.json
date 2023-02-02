@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ReactFolio/static/css/main.0bb94ee4.css",
+    "main.js": "/ReactFolio/static/js/main.5537e18d.js",
+    "static/media/your photo.png": "/ReactFolio/static/media/your photo.d3d7d889fb47deefee79.png",
+    "static/media/back.png": "/ReactFolio/static/media/back.22c9071363435498d9ee.png",
+    "static/media/sad-icon.png": "/ReactFolio/static/media/sad-icon.b8e784ce2664093c60a9.png",
+    "index.html": "/ReactFolio/index.html",
+    "main.0bb94ee4.css.map": "/ReactFolio/static/css/main.0bb94ee4.css.map",
+    "main.5537e18d.js.map": "/ReactFolio/static/js/main.5537e18d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bb94ee4.css",
+    "static/js/main.5537e18d.js"
+  ]
+}
